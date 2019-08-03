@@ -1,0 +1,6 @@
+rootProject.name = 'io'
+
+include 'blocking'
+include 'non-blocking'
+include 'dependency'
+include 'performance-tests'
